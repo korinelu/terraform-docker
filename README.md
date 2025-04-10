@@ -7,7 +7,11 @@ Created Terraform Project
 
 
 mkdir terraform-docker
+
+
 cd terraform-docker
+
+
 Created main.tf Configuration
 
 Used Docker provider to pull nginx:latest image.
